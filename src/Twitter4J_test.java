@@ -70,7 +70,7 @@ public class Twitter4J_test {
 				THIS.tweetMode();
 			}
 			
-			
+			//
 		}
 		
 		scan.close();
